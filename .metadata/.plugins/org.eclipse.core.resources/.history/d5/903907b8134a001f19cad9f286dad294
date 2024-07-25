@@ -1,0 +1,11 @@
+package com.sagar.entity;
+
+public class Product {
+	private Integer productId;
+	private String productCode;
+	private String name;
+	private int quality;
+	private float price;
+	private String description;
+	
+}
